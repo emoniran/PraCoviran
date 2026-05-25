@@ -1,0 +1,21 @@
+
+.seccion {
+    padding: 20px;
+    border: 2px solid red;
+    margin: 0 20 20 20;
+}
+h3 {
+    color: #008019 !important;
+    margin: 0 0 1.5rem 0;
+    text-align: center;
+}
+.subtitular {
+    color: rgb(0 112 192);
+}
+.imagen img {
+    max-width: 940px !important;  
+    width: 100%; 
+    max-height: 580px !important;
+    height: 100%;  
+    margin-bottom: 15px;    
+}
